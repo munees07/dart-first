@@ -8,8 +8,5 @@ void main() {
       array.add(values);
     }
   }
-
-
-  
   print(array);
 }
